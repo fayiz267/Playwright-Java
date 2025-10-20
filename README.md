@@ -21,4 +21,13 @@ Playwright is a modern automation framework that supports **Chromium, Firefox, a
 - **Language:** Java  
 - **Framework:** Playwright  
 - **Build Tool:** Maven  
-  
+
+---
+
+ ## ⚙️ Project Setup
+
+
+Make sure you have:
+- **Java 11+**
+- **Maven 3.6+**
+- **Internet connection** (for Playwright dependencies)
